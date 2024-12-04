@@ -1,3 +1,4 @@
+import "./App.css";
 import React, { useState } from "react";
 import Counter from "./Counter";
 
@@ -22,3 +23,4 @@ function App() {
 }
 
 export default App;
+

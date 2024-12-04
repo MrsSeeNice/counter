@@ -12,3 +12,4 @@ function Counter({ counter, increment, decrement, reset }) {
 }
 
 export default Counter;
+
